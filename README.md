@@ -1,3 +1,5 @@
+[![Build and Push Docker Image](https://github.com/bwbioinfo/deeptools-docker-cwl/actions/workflows/build-and-push.yml/badge.svg)](https://github.com/bwbioinfo/deeptools-docker-cwl/actions/workflows/build-and-push.yml)
+
 # deepTools-docker-cwl
 
 This repository provides a [Common Workflow Language (CWL)](https://www.commonwl.org/) tool for running the [deepTools](https://github.com/deeptools/deepTools) program. The tool is packaged in a Docker container, allowing it to run on any system with Docker or Singularity installed.
